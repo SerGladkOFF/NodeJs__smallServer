@@ -2,5 +2,5 @@
 
 пришлось запускать командную строку
 
-set TIME=3000 && set INTERVAL=30ad0 && node app.js
+set TIME=3000 && set INTERVAL=300 && node app.js
 
